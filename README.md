@@ -1,7 +1,7 @@
 # Car Price Prediction with Dummy Variables and One Hot Encoding
 
 ## Overview
-This repository contains code for a linear regression model with both dummy variables and one hot encoding method to predict car prices based on historical data. The model is built using Python and the scikit-learn library.
+This repository contains code for a linear regression model with both dummy variables and one hot encoding methods to predict car prices based on historical data. The model is built using Python and the scikit-learn library.
 
 ## Dataset
 The dataset used for training the model is included in the repository as `carprices.csv`. It contains the following columns:
