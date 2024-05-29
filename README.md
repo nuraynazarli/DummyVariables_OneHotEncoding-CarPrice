@@ -18,4 +18,4 @@ To run the code in this repository, you'll need the following dependencies:
 You can install the dependencies using pip.
 
 ## Result
-I have used dummy variables with pandas and one hot encoding method with sklearn library for labeling of the column ("Car Model"). The aim and results are the same, just codes are different. After every 2 processes the model score is 0.9417050937281082 which it is a good result.
+I have used dummy variables with pandas and one hot encoding method with scikit-learn library for labeling of the column ("Car Model"). The aim and results are the same, just codes are different. After every 2 processes the model score is 0.9417050937281082 which it is a good result.
